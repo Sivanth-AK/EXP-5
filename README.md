@@ -16,6 +16,11 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+<img width="824" height="756" alt="image" src="https://github.com/user-attachments/assets/361162d9-cfe2-43ba-a355-721cd30b42fb" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3b662158-a9d9-44cc-8ece-41cc66cb2563" />
+<img width="822" height="760" alt="image" src="https://github.com/user-attachments/assets/571e8722-f38a-4173-a188-891a036657d7" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cefee958-a3df-4cba-a42e-c31d95c77b23" />
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -32,13 +37,10 @@ OBSERVATIONS:
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/07653a3f-6719-4306-9db3-62199ea4ad84" />
 
 REGULATION CHARACTERISTICS:
-<img width="824" height="756" alt="image" src="https://github.com/user-attachments/assets/361162d9-cfe2-43ba-a355-721cd30b42fb" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3b662158-a9d9-44cc-8ece-41cc66cb2563" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/6108f003-03cb-42b8-aeb6-0f2194227bf9" />
 
 V-I & REGULATION CHARACTERISTICS:
-<img width="822" height="760" alt="image" src="https://github.com/user-attachments/assets/571e8722-f38a-4173-a188-891a036657d7" />
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cefee958-a3df-4cba-a42e-c31d95c77b23" />
-
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/6108f003-03cb-42b8-aeb6-0f2194227bf9" />
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
